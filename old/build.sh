@@ -1,0 +1,1 @@
+zip dropnode.nw index.html package.json main.js 

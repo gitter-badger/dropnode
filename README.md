@@ -1,6 +1,27 @@
-dropnode
-========
+# dropnode [![Build Status](https://secure.travis-ci.org/divanvisagie/dropnode.png?branch=master)](http://travis-ci.org/divanvisagie/dropnode)
 
-Under heavy development
+The best project ever.
 
-refer https://github.com/rogerwang/node-webkit#downloads
+## Getting Started
+Install the module with: `npm install dropnode`
+
+```javascript
+var dropnode = require('dropnode');
+dropnode.awesome(); // "awesome"
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+## Release History
+_(Nothing yet)_
+
+## License
+Copyright (c) 2014 Divan Visagie  
+Licensed under the MIT license.
