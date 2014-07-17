@@ -1,10 +1,16 @@
+@import "mixins";
 
 $detail-color: #38bb61;
+$detail-opposite: #efefef;
 
 body {
   color: $detail-color;
+  @include border-radius(9px);
 }
 
-.navbar {
-  background: $detail-color;
+
+.navbar-default{
+  .navbar-brand {
+    color: $detail-color;
+  }
 }

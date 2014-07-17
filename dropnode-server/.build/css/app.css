@@ -1,5 +1,9 @@
 body {
-  color: #38bb61; }
+  color: #38bb61;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  border-radius: 9px; }
 
-.navbar {
-  background: #38bb61; }
+.navbar-default .navbar-brand {
+  color: #38bb61; }
