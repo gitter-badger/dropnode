@@ -5,12 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.9.8",
-    "grunt-contrib-jshint": "0.6.x",
-    "grunt-contrib-nodeunit": "0.2.x",
-    "grunt-contrib-watch": "0.4.x",
-    "grunt": "0.4.x"
+    "mdns": "^2.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
