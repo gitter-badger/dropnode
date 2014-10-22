@@ -8,7 +8,8 @@
     "mdns": "^2.2.1"
   },
   "devDependencies": {
-    "gulp": "^3.8.9"
+    "gulp": "^3.8.9",
+    "gulp-nodeunit": "0.0.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
