@@ -5,11 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.9.8",
+    "gulp-watch": "^1.1.0",
     "mdns": "^2.2.1"
   },
   "devDependencies": {
     "gulp": "^3.8.9",
-    "gulp-nodeunit": "0.0.5"
+    "gulp-nodeunit": "0.0.5",
+    "gulp-nodeunit-runner": "^0.2.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
